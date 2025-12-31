@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 488.55 249.85">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Montserrat-Bold, Montserrat;
+        font-size: 28px;
+        font-weight: 700;
+      }
+
+      .st0, .st1, .st2 {
+        fill: #012fa9;
+      }
+
+      .st3 {
+        fill: #008ab5;
+      }
+
+      .st4 {
+        fill: #1cb0d3;
+      }
+
+      .st5 {
+        fill: #03beff;
+      }
+
+      .st1 {
+        font-family: KonexyPersonalUseRegular, 'Konexy Personal Use';
+        font-size: 80px;
+      }
+    </style>
+  </defs>
+  <text class="st1" transform="translate(11.37 153.53)"><tspan x="0" y="0">iCOMM</tspan></text>
+  <text class="st0" transform="translate(365.69 179.02)"><tspan x="0" y="0">TM</tspan></text>
+  <g>
+    <path class="st2" d="M332.9,79.18h39.96S244.3,1.22,104.55,1.22,9.1,79.18,9.1,79.18l5.86,1.36s-8.31-15.8-7.17-25.25.98-40.56,79.81-41.86,179.82,31.49,245.3,65.75Z"/>
+    <path class="st5" d="M452.13,171.29h20.77s4.97,8.71,4.97,24.51-11.4,52.83-97.18,52.83-195.89-35.4-275.59-87.3c0,0,137.8,71.56,258.65,71.56s92.95-52.56,92.95-52.56l-4.56-9.04Z"/>
+    <g>
+      <polygon class="st3" points="456.43 162 459.43 140.51 388.97 91.93 452.92 145.07 456.43 162"/>
+      <polygon class="st4" points="441.98 150.02 456.43 162 452.92 145.07 441.98 150.02"/>
+      <polygon class="st5" points="388.97 91.93 425.18 166.56 452.92 145.07 388.97 91.93"/>
+      <polygon class="st5" points="459.43 140.51 486.13 124.1 388.97 91.93 459.43 140.51"/>
+    </g>
+  </g>
+</svg>
